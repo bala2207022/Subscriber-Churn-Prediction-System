@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Subscriber Churn Prediction System for Netflix  
 ### Project Proposal Document
 
@@ -151,3 +152,6 @@ It demonstrates strong analytical thinking and real-world problem solving.
 ---
 
 
+=======
+# Subscriber-Churn-Prediction-System
+>>>>>>> f7d77a8d0f32c63518e0d41c2e72a1bd30a601df
